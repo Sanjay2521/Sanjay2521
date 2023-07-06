@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjay2521
-- 👀 I’m interested in ...VLSI, ARDUINO,EMBEDDED SYSTEM,
-- 🌱 I’m currently learning ...FULL STACK
+- 👀 I’m interested in ..., ARDUINO, C, Object-oriented programming in C++,Verilog HDL,8051 assembly programming,MATLAB,
+- 🌱 I’m currently learning ...FULL STACK, VLSI, PYTHON 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sanjaybm394@gmail.com
 
